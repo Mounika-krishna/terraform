@@ -1,0 +1,13 @@
+.
+*.
+.aws/
+.bash_hisory
+.bash_logou
+.bash_profile
+.bashrc
+.cshrc
+.pyhon_hisory
+.ssh/
+.cshrc
+.erraform.d/
+
